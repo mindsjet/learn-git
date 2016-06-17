@@ -1,0 +1,48 @@
+ICACLS         显示、修改、备份或还原文件和
+ 目录的 ACL。
+IF             在批处理程序中执行有条件的处理过程。
+LABEL          创建、更改或删除磁盘的卷标。
+MD             创建一个目录。
+MKDIR          创建一个目录。
+MKLINK         创建符号链接和硬链接
+MODE           配置系统设备。
+MORE           逐屏显示输出。
+MOVE           将一个或多个文件从一个目录移动到另一个目录。
+OPENFILES      显示远程用户为了文件共享而打开的文件。
+PATH           为可执行文件显示或设置搜索路径。
+PAUSE          停止批处理文件的处理并显示信息。
+POPD           还原由 PUSHD 保存的当前目录上一次的值。
+PRINT          打印一个文本文件。
+PROMPT         改变 Windows 命令提示。
+PUSHD          保存当前目录，然后对其进行更改。
+RD             删除目录。
+RECOVER        从损坏的磁盘中恢复可读取的信息。
+REM            记录批处理文件或 CONFIG.SYS 中的注释。
+REN            重新命名文件。
+RENAME         重新命名文件。
+REPLACE        替换文件。
+RMDIR          删除目录。
+ROBOCOPY       复制文件和目录树的高级实用程序
+SET            显示、设置或删除 Windows 环境变量。
+SETLOCAL       开始用批文件改变环境的本地化。
+SC             显示或配置服务(后台处理)。
+SCHTASKS       安排命令和程序在一部计算机上按计划运行。
+SHIFT          调整批处理文件中可替换参数的位置。
+SHUTDOWN       让机器在本地或远程正确关闭。
+SORT           将输入排序。
+START          打开单独视窗运行指定程序或命令。
+SUBST          将驱动器号与路径关联。
+SYSTEMINFO     显示机器的具体的属性和配置。
+TASKLIST       显示包括服务的所有当前运行的任务。
+TASKKILL       终止正在运行的进程或应用程序。
+TIME           显示或设置系统时间。
+TITLE          设置 CMD.EXE 会话的窗口标题。
+TREE           以图形显示启动器或路径的目录结构。
+TYPE           显示文本文件的内容。
+VER            显示 Windows 的版本。
+VERIFY         告诉 Windows 验证文件是否正确写入磁盘。
+VOL            显示磁盘卷标和序列号。
+XCOPY          复制文件和目录树。
+WMIC           在交互命令外壳里显示 WMI 信息。
+
+有关工具的详细信息，请参阅联机帮助中的命令行参考。
